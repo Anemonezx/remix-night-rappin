@@ -1,7 +1,7 @@
+# We singin but do you got what it takes?
+-epic music-
 # remix-night-rappin
-a
-# remix-night-rappin
-a
+LMAOOOOOOOOOOOOOOOOOOO
 b̲r̲o̲ ̲s̲o̲ ̲u̲m̲ ̲y̲e̲a̲ 
 this is to let you know that this is not a fnf mod or copy so no sue me-
 its kinda like a fan game plus it has more "weeks" im trying to be second place of best the best rythm game first place being Friday Night Funkin'.
