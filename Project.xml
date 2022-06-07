@@ -90,14 +90,16 @@
 	<assets path="assets/battle5"    library="battle5"    exclude="*.ogg" if="web"/>
 	<assets path="assets/battle5"    library="battle5"    exclude="*.mp3" unless="web"/>
 	<assets path="assets/battle6"    library="battle6"    exclude="*.ogg" if="web"/>
-	<assets path="assets/battle7"    library="battle7"    exclude="*.mp3" unless="web"/><assets path="assets/week6"    library="battle6"    exclude="*.ogg" if="web"/>
+	<assets path="assets/battle6"    library="battle6"    exclude="*.mp3" unless="web"/><assets path="assets/battle6"    library="battle6"    exclude="*.ogg" if="web"/>
 	<assets path="assets/battle7"    library="battle7"    exclude="*.mp3" unless="web"/>
-	<assets path="assets/battle8"    library="battle8"    exclude="*.ogg" if="web"/>
+	<assets path="assets/battle7"    library="battle7"    exclude="*.ogg" if="web"/>
 	<assets path="assets/battle8"    library="battle8"    exclude="*.mp3" unless="web"/>
-	<assets path="assets/battle9"    library="battle9"    exclude="*.ogg" if="web"/>
+	<assets path="assets/battle8"    library="battle8"    exclude="*.ogg" if="web"/>
 	<assets path="assets/battle9"    library="battle9"    exclude="*.mp3" unless="web"/>
-	<assets path="assets/battle10"    library="battle10"    exclude="*.ogg" if="web"/>
-	<assets path="assets/battle10"    library="battle10"    exclude="*.mp3" unless="web"/>
+	<assets path="assets/battle9"    library="battle9"    exclude="*.ogg" if="web"/>
+	<assets path="assets/battle10"   library="battle10"   exclude="*.mp3" unless="web"/>
+	<assets path="assets/battle10"   library="battle10"   exclude="*.ogg" if="web"/>
+
 
 	<assets path='example_mods' rename='mods' embed='false'/>
 	<assets path='art/do Not readme.txt' rename='DO readme.txt' />
